@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Guardian",
+  "base_artist": "Poppy",
+  "createdAt": "2026-02-21T08:03:32.418860Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Guardian of the Blind",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/01_Guardian_of_the_Blind_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Guardian",
+      "artist": "Paul van Dyk feat. Aly & Fila & Sue McLaren",
+      "has_synced": false,
+      "path": "select/02_Guardian_Paul_van_Dyk_feat._Aly_&_Fila_&_Sue_McLaren.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Guardian Angel",
+      "artist": "Culture Beat",
+      "has_synced": false,
+      "path": "select/03_Guardian_Angel_Culture_Beat.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Guardian Angel",
+      "artist": "Novaspace",
+      "has_synced": true,
+      "path": "select/04_Guardian_Angel_Novaspace.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Guardian Angel (Nova mix)",
+      "artist": "Novaspace",
+      "has_synced": false,
+      "path": "select/05_Guardian_Angel_(Nova_mix)_Novaspace.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Guardian Angel (extended mix)",
+      "artist": "Novaspace",
+      "has_synced": false,
+      "path": "select/06_Guardian_Angel_(extended_mix)_Novaspace.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Guardian Angel",
+      "artist": "Angelzoom",
+      "has_synced": true,
+      "path": "select/07_Guardian_Angel_Angelzoom.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Guardian Angel",
+      "artist": "Alphaville",
+      "has_synced": true,
+      "path": "select/08_Guardian_Angel_Alphaville.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Guardian Angel",
+      "artist": "Alphaville",
+      "has_synced": true,
+      "path": "select/09_Guardian_Angel_Alphaville.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Guardian Angel",
+      "artist": "Death SS",
+      "has_synced": false,
+      "path": "select/10_Guardian_Angel_Death_SS.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Guardian",
+      "artist": "Running Wild",
+      "has_synced": true,
+      "path": "select/11_The_Guardian_Running_Wild.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Guardian",
+      "artist": "Before the Dawn",
+      "has_synced": true,
+      "path": "select/12_Guardian_Before_the_Dawn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Guardian",
+      "artist": "Mithotyn",
+      "has_synced": true,
+      "path": "select/13_The_Guardian_Mithotyn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Guardian",
+      "artist": "Amberian Dawn",
+      "has_synced": true,
+      "path": "select/14_Guardian_Amberian_Dawn.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Guardian Angel",
+      "artist": "Imperia",
+      "has_synced": true,
+      "path": "select/15_My_Guardian_Angel_Imperia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Guardian of the Blind (Remastered 2017)",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/16_Guardian_of_the_Blind_(Remastered_2017)_Blind_Guardian.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Guardian",
+      "artist": "Poppy",
+      "has_synced": false,
+      "path": "select/pl_01_Guardian_Poppy.txt"
+    }
+  ]
+}
